@@ -1,4 +1,5 @@
-<h1 align="center">🎯 Kaggle & Data Science Portfolio</h1>
+<h1 align="center">Portfolio</h1>
+<h1 align="center">Phoom Detuypornworng</h1>
 
 <p align="center">
   <b>คลังสะสมผลงานการฝึกฝนและทดลองแก้ปัญหาด้าน Data Science, Machine Learning และ Deep Learning</b>
@@ -14,7 +15,7 @@
 
 ---
 
-## 📌 สรุปจุดประสงค์ (Overview & Goal)
+## (Overview & Goal)
 
 พื้นที่นี้จัดทำขึ้นเพื่อมุ่งเน้นการลงมือปฏิบัติจริง (**Hands-on Practice**) และเก็บสะสมผลงาน (Portfolio) บน **Kaggle** โดยครอบคลุมกระบวนการทำ Data Science แบบครบวงจร:
 
