@@ -1,91 +1,60 @@
-
-<h1 align="center">Phoom Detuypornworng</h1>
-
+<h1 align="center">Hi there, I'm Phoom Detuypornworng 👋</h1>
 <p align="center">
-  <b>คลังสะสมผลงานการฝึกฝนและทดลองแก้ปัญหาด้าน Data Science, Machine Learning และ Deep Learning</b>
+  <b>Computer Science Student at Sripatum University | Aspiring AI Engineer & Data Scientist</b>
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
-  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
-  <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" /></a>
-  <a href="https://kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://goe84.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.kaggle.com/phoomdetuypornworng"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://huggingface.co/cph2123"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge" alt="Hugging Face" /></a>
 </p>
 
 ---
 
-## (Overview & Goal)
+### 📌 About Me
 
-พื้นที่นี้จัดทำขึ้นเพื่อมุ่งเน้นการลงมือปฏิบัติจริง (**Hands-on Practice**) และเก็บสะสมผลงาน (Portfolio) บน **Kaggle** โดยครอบคลุมกระบวนการทำ Data Science แบบครบวงจร:
+สวัสดีครับผม **ภูมิ (Phoom)** กำลังศึกษาด้าน Computer Science ที่มหาวิทยาลัยศรีปทุม มีความหลงใหลในด้าน **AI, Data Science, Machine Learning และ Deep Learning** 
 
-* 📊 **Exploratory Data Analysis (EDA)**: วิเคราะห์ค้นหาข้อมูลเชิงลึก และสร้าง Visualization ด้วย **Seaborn** & **Matplotlib**
-* ⚙️ **Data Preprocessing & Feature Engineering**: จัดการข้อมูลสูญหาย (Missing Values), ทำ One-Hot Encoding และ Feature Scaling
-* 🤖 **Machine Learning Modeling**: ฝึกสอนโมเดล Classification & Regression (เช่น Random Forest Classifier) พร้อมวัดผลด้วย Confusion Matrix & Feature Importance
-* 🧠 **Deep Learning & LLM**: ทดลองปรับแต่ง Fine-Tuning โมเดลภาษาขนาดใหญ่ (Large Language Models)
+มุ่งเน้นการลงมือปฏิบัติจริง (**Hands-on Practice**) และสะสมผลงานจริงผ่านโปรเจกต์เชิงลึกและ Kaggle เพื่อพัฒนาโมเดลที่สามารถแก้ปัญหาและต่อยอดทางธุรกิจได้จริง
+
+* 🔭 **กำลังโฟกัส:** LLM Fine-Tuning, Feature Engineering และ Advanced Data Visualization (EDA)
+* 🎓 **การศึกษา:** Computer Science, Sripatum University
+* 📍 **Location:** Bangkok, Thailand
+* 📬 **Contact:** [Portfolio Website](https://goe84.github.io/portfolio/)
 
 ---
 
-## 💻 Tech Stack & Skills
+### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="40" height="40" />
-  </a>
-  &nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="40" height="40" />
-  </a>
+**Languages & Core:**
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Machine Learning & Deep Learning:**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Data Analysis & Visualization:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+---
+
+### 🚀 Highlight Projects
+
+* 📊 **[Customer Churn Classification](https://github.com/GOE84/GOE84/tree/main/Churn%20Classification)** - วิเคราะห์และสร้างโมเดล Machine Learning ทำนายการยกเลิกบริการของลูกค้า พร้อมจัดทำ EDA Visualizations ครบวงจร
+* 🚗 **[BMW Sales & Pricing Trends](https://github.com/GOE84/GOE84/tree/main/BMW%20Sales%20%26%20Pricing%20Trends)** - การทำ Data Analysis และ Regression Modeling เพื่อวิเคราะห์แนวโน้มราคาและยอดขายรถยนต์
+* 🤖 **[LLM Classification Fine-Tuning](https://github.com/GOE84/GOE84/tree/main/LLM%20Classification%20Finetuning)** - การปรับแต่ง Large Language Models (LLM) ด้วย PyTorch & Hugging Face สำหรับงานจัดหมวดหมู่ข้อความ
+* 📈 **[Gold Price Prediction](https://github.com/GOE84/Gold-Price-Prediction)** - โมเดลทำนายราคาทองคำด้วย Time-Series / Machine Learning Techniques
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GOE84&show_icons=true&theme=radical&hide_border=true" alt="Phoom's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOE84&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
-
----
-
-## 📂 รายชื่อโปรเจกต์ในคลัง (Projects Directory)
-
-| โปรเจกต์ (Project Name) | ประเภทงาน & รายละเอียด (Description) | เครื่องมือ/โมเดลที่ใช้ (Tech Stack) | รายละเอียดฉบับเต็ม |
-| :--- | :--- | :--- | :---: |
-| 🏦 **Bank Customer Churn Classification** | วิเคราะห์ปัจจัยและสร้างโมเดลทำนายการยกเลิกบริการของลูกค้าธนาคาร พร้อมกราฟ EDA และข้อเสนอแนะเชิงธุรกิจ | Python, Pandas, Seaborn, Random Forest Classifier | [🔗 ดูผลงาน](./Churn%20Classification/README.md) |
-| 🚗 **BMW Sales & Pricing Trends** | วิเคราะห์แนวโน้มยอดขาย ราคารถยนต์ไฟฟ้า (BEV) และแนวโน้มการตลาดระดับโลกของแบรนด์ BMW | Python, Data Visualization, Market Analytics | [🔗 ดูผลงาน](./BMW%20Sales%20&%20Pricing%20Trends/README.md) |
-| 🤖 **LLM Classification Finetuning** | การทดลองและปรับแต่ง Fine-tuning โมเดลประเภท Large Language Model สำหรับงานจัดหมวดหมู่ข้อความ | PyTorch, HuggingFace Transformers | [🔗 ดูโฟลเดอร์](./LLM%20Classification%20Finetuning) |
-
----
-
-## 🎯 แนวทางการพัฒนาทักษะ (Skill Roadmap)
-
-1. 🔍 **EDA & Visualization**: พัฒนาการเล่าเรื่องด้วยข้อมูล (Data Storytelling) ผ่านกราฟวิเคราะห์ที่อ่านง่าย เข้าใจได้ทันที
-2. ⚙️ **Preprocessing Standards**: ใช้เทคนิคการเตรียมข้อมูลมาตรฐาน ป้องกัน Data Leakage และจัดการกับปัญหากลุ่มข้อมูลไม่สมดุล (Imbalanced Data)
-3. 📈 **Model Optimization**: ฝึกการปรับจูนไฮเปอร์พารามิเตอร์ (Hyperparameter Tuning) และการเลือก Evaluation Metrics ให้ตรงโจทย์ธุรกิจ
-4. 🚀 **Portfolio & Documentation**: สรุปบทเรียน ข้อค้นพบ และแนวทางการนำไปใช้งานจริงไว้ในเอกสาร README อย่างมืออาชีพ
-
----
-
-### 🌐 Socials & Contact
-
-<p align="left">
-  <a href="https://github.com/GOE84" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" title="GitHub" />
-    </picture>
-  </a>
-</p>
-
----
-<p align="center"><i>จัดทำขึ้นเพื่อการเรียนรู้ พัฒนาทักษะ และเก็บสะสมผลงาน Data Science 🚀</i></p>
