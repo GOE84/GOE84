@@ -50,11 +50,3 @@
 * 🤖 **[LLM Classification Fine-Tuning](https://github.com/GOE84/GOE84/tree/main/LLM%20Classification%20Finetuning)** - การปรับแต่ง Large Language Models (LLM) ด้วย PyTorch & Hugging Face สำหรับงานจัดหมวดหมู่ข้อความ
 * 📈 **[Gold Price Prediction](https://github.com/GOE84/Gold-Price-Prediction)** - โมเดลทำนายราคาทองคำด้วย Time-Series / Machine Learning Techniques
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GOE84&show_icons=true&theme=radical&hide_border=true" alt="Phoom's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOE84&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
