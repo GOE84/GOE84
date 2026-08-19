@@ -1,15 +1,4 @@
-<h1 align="center">Hi there, I'm Phoom Detuypornworng </h1>
-<p align="center">
-  <b>Computer Science Student at Sripatum University | Aspiring AI Engineer & Data Scientist</b>
-</p>
 
-<p align="center">
-  <a href="https://goe84.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.kaggle.com/phoomdetuypornworng"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://huggingface.co/cph2123"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Profile-FFD21E?style=for-the-badge" alt="Hugging Face" /></a>
-</p>
-
----
 
 ###  About Me
 
