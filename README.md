@@ -2,7 +2,7 @@
 
 ###  About Me
 
-สวัสดีครับผม **ภูมิ (Phoom)** กำลังศึกษาด้าน Computer Science ที่มหาวิทยาลัยศรีปทุม มีความหลงใหลในด้าน **AI, Data Science, Machine Learning และ Deep Learning** 
+สวัสดีครับผม **ภูมิ (Phoom)** กำลังศึกษาด้าน Computer Science ที่มหาวิทยาลัยศรีปทุม มีความสนใจด้าน **AI, Data Science, Machine Learning และ Deep Learning** 
 
 ---
 
