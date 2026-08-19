@@ -41,12 +41,4 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
 
----
-
-### 🚀 Highlight Projects
-
-* 📊 **[Customer Churn Classification](https://github.com/GOE84/GOE84/tree/main/Churn%20Classification)** - วิเคราะห์และสร้างโมเดล Machine Learning ทำนายการยกเลิกบริการของลูกค้า พร้อมจัดทำ EDA Visualizations ครบวงจร
-* 🚗 **[BMW Sales & Pricing Trends](https://github.com/GOE84/GOE84/tree/main/BMW%20Sales%20%26%20Pricing%20Trends)** - การทำ Data Analysis และ Regression Modeling เพื่อวิเคราะห์แนวโน้มราคาและยอดขายรถยนต์
-* 🤖 **[LLM Classification Fine-Tuning](https://github.com/GOE84/GOE84/tree/main/LLM%20Classification%20Finetuning)** - การปรับแต่ง Large Language Models (LLM) ด้วย PyTorch & Hugging Face สำหรับงานจัดหมวดหมู่ข้อความ
-* 📈 **[Gold Price Prediction](https://github.com/GOE84/Gold-Price-Prediction)** - โมเดลทำนายราคาทองคำด้วย Time-Series / Machine Learning Techniques
 
