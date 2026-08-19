@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Phoom Detuypornworng 👋</h1>
+<h1 align="center">Hi there, I'm Phoom Detuypornworng </h1>
 <p align="center">
   <b>Computer Science Student at Sripatum University | Aspiring AI Engineer & Data Scientist</b>
 </p>
@@ -11,7 +11,7 @@
 
 ---
 
-### 📌 About Me
+###  About Me
 
 สวัสดีครับผม **ภูมิ (Phoom)** กำลังศึกษาด้าน Computer Science ที่มหาวิทยาลัยศรีปทุม มีความหลงใหลในด้าน **AI, Data Science, Machine Learning และ Deep Learning** 
 
