@@ -15,13 +15,6 @@
 
 สวัสดีครับผม **ภูมิ (Phoom)** กำลังศึกษาด้าน Computer Science ที่มหาวิทยาลัยศรีปทุม มีความหลงใหลในด้าน **AI, Data Science, Machine Learning และ Deep Learning** 
 
-มุ่งเน้นการลงมือปฏิบัติจริง (**Hands-on Practice**) และสะสมผลงานจริงผ่านโปรเจกต์เชิงลึกและ Kaggle เพื่อพัฒนาโมเดลที่สามารถแก้ปัญหาและต่อยอดทางธุรกิจได้จริง
-
-* 🔭 **กำลังโฟกัส:** LLM Fine-Tuning, Feature Engineering และ Advanced Data Visualization (EDA)
-* 🎓 **การศึกษา:** Computer Science, Sripatum University
-* 📍 **Location:** Bangkok, Thailand
-* 📬 **Contact:** [Portfolio Website](https://goe84.github.io/portfolio/)
-
 ---
 
 ### 🛠️ Tech Stack & Tools
